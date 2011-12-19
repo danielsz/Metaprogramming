@@ -1,3 +1,5 @@
+#Exercice 1: Make it compile!
+
 class Person  
  
  def name

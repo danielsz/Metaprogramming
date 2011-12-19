@@ -1,3 +1,5 @@
+#Exercice 2: Make it compile!
+
 module Features
   def my_attr()
 
