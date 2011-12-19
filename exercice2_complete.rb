@@ -18,6 +18,6 @@ end
 person = Person.new
 person.name="Phil"
 p person.name
-p Person.class
+
 
 
